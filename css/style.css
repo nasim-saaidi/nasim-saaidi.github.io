@@ -3,6 +3,9 @@
     background-color: lightblue;
 }
 
+.lightblue {
+    background-color: lightblue;
+}
 .center {
     padding-top: 250px;
 }
@@ -21,11 +24,12 @@
 }
 
 .projecten {
-    margin-top: 710px;
+    margin-top: 800px;
 }
 
 .cards {
     margin-top: 40px;
+    background-color: black;
 }
 
 .tetris {
@@ -36,4 +40,24 @@
 .widescreen {
     width: 370px;
     height: 250px;
+}
+
+.about-project {
+    margin-top: 710px;
+}
+
+.info {
+    margin-left: 100px;
+}
+
+body {
+    background-color: black;
+}
+
+.icon {
+    color: white;
+}
+
+.contact {
+    margin-top: 700px;
 }
