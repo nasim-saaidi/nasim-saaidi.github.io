@@ -28,7 +28,12 @@
     margin-top: 40px;
 }
 
-.image {
-    width: 20px;
-    
+.tetris {
+    width: 320px;
+    height: 350px;
+}
+
+.tic-tac-toe {
+    width: 370px;
+    height: 250px;
 }
