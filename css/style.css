@@ -61,3 +61,8 @@ body {
 .contact {
     margin-top: 700px;
 }
+
+.content {
+    height: 600px;
+    margin-top: 0px;
+}
